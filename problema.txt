@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+esto es un problema
+=======
 Esto es un problema
+>>>>>>> 8fb25120998e1db060ba8914fa2a67b783152fbb
